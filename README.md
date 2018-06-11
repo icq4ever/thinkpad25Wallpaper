@@ -1,4 +1,4 @@
-#thinkpad 25 anniversary wallpaper
+# thinkpad 25 anniversary wallpaper
 
 ![wallpaper](tp25Wallpaper_1920x1080_FHD.png)
 
